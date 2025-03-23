@@ -54,11 +54,11 @@ AdsPower是一款强大的多账号防关联浏览器，广泛应用于跨境电
 
 <!-- Google Analytics 代码预留位置 -->
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W4Q7F3FGS4"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-XXXXXXXXXX');
+  gtag('config', 'G-W4Q7F3FGS4');
 </script>
